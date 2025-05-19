@@ -69,3 +69,30 @@ https://band.us/n/aba5A1Z2gck0M
 - 아스키 코드 (https://www.acmicpc.net/problem/11654)  
 - 문자와 문자열 (https://www.acmicpc.net/problem/27866)  
 
+---
+
+## ~5.23
+
+목표: 다양한 자료형 이해 및 변수 개념 학습  
+
+02-3 리스트 자료형 (https://wikidocs.net/14) - 여러 값을 하나의 변수에 담기  
+02-4 튜플 자료형 (https://wikidocs.net/15) - 변경 불가능한 리스트 다루기  
+02-5 딕셔너리 자료형 (https://wikidocs.net/16) - 키와 값을 활용한 데이터 저장  
+02-6 집합 자료형 (https://wikidocs.net/40158) - 중복 없는 집합 자료 다루기  
+02-7 불 자료형 (https://wikidocs.net/17) - 참과 거짓 표현하기  
+02-8 변수 (https://wikidocs.net/18) - 값을 저장하고 사용하는 방법  
+02장 되새김 문제 - 자료형 전반 복습  
+
+연습문제  
+상:  
+- 배열 돌리기 1 (https://www.acmicpc.net/problem/16926)  
+
+중:  
+- 평균 (https://www.acmicpc.net/problem/1546)  
+- 상수 (https://www.acmicpc.net/problem/2908)  
+
+하:  
+- 최소, 최대 (https://www.acmicpc.net/problem/10818)  
+- 배열 합치기 (https://www.acmicpc.net/problem/11728)  
+
+---
