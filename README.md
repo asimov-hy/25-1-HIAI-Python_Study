@@ -55,15 +55,15 @@ https://band.us/n/aba5A1Z2gck0M
 
 연습문제
 상: 
-- 단어정렬(https://www.acmicpc.net/problem/1181)
-- 더하기 사이클 (https://www.acmicpc.net/problem/1110)
+- 단어정렬(https://www.acmicpc.net/problem/1181)  
+- 더하기 사이클 (https://www.acmicpc.net/problem/1110)  
 중:
-- 단어의 개수 (https://www.acmicpc.net/problem/1152)
-- 알파벳 찾기 (https://www.acmicpc.net/problem/10809)
-- 별 찍기 -1 (https://www.acmicpc.net/problem/2438)
+- 단어의 개수 (https://www.acmicpc.net/problem/1152)  
+- 알파벳 찾기 (https://www.acmicpc.net/problem/10809)  
+- 별 찍기 -1 (https://www.acmicpc.net/problem/2438)  
 하:
-- 숫자의 합 (https://www.acmicpc.net/problem/11720)
-- 문자열 (https://www.acmicpc.net/problem/9086)
-- 아스키 코드 (https://www.acmicpc.net/problem/11654)
-- 문자와 문자열 (https://www.acmicpc.net/problem/27866)
+- 숫자의 합 (https://www.acmicpc.net/problem/11720)  
+- 문자열 (https://www.acmicpc.net/problem/9086)  
+- 아스키 코드 (https://www.acmicpc.net/problem/11654)  
+- 문자와 문자열 (https://www.acmicpc.net/problem/27866)  
 
